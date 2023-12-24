@@ -1,0 +1,22 @@
+{
+  "name": "fortune-cookies",
+  "version": "1.0.0",
+  "description": "basic fortune cookie site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crusoejp/fortune-cookies.git"
+  },
+  "author": "crusoepatterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crusoejp/fortune-cookies/issues"
+  },
+  "homepage": "https://github.com/crusoejp/fortune-cookies#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}

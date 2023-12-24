@@ -1,1 +1,1 @@
-open index.html to start up
+open src/index.html to start up
